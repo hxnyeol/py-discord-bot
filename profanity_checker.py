@@ -1,5 +1,5 @@
 from profanity_check import predict_prob, predict
-# print(predict_prob(['fuck you'])[0])
+# print(predict_prob(['shit'])[0])
 import re
 
 text = 'rohoe'
